@@ -5,4 +5,6 @@ para el post se registra una venta, acepta un json con fecha, total y id_cliente
 el get regresa todas las ventas en la base de datos
 el uri localhost/apimodelo/ventas/id<==acepta get post
 para el post es necesario enviar los datos id_producto,precio_unitario,cantidad,id_venta
+tambien incluyo el archivo para la creacion de la base de datos
+
 
