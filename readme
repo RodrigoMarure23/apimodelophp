@@ -1,0 +1,8 @@
+Esta es la api para guardar las ventas 
+acepta 
+el uri localhost/apimodelo/ventas <== acepta GET Y POST
+para el post se registra una venta, acepta un json con fecha, total y id_cliente
+el get regresa todas las ventas en la base de datos
+el uri localhost/apimodelo/ventas/id<==acepta get post
+para el post es necesario enviar los datos id_producto,precio_unitario,cantidad,id_venta
+
